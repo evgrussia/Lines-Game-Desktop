@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Lines\Lines\bin\Debug\Lines.exe.config
+C:\Users\Admin\source\repos\Lines\Lines\bin\Debug\Lines.exe
+C:\Users\Admin\source\repos\Lines\Lines\bin\Debug\Lines.pdb
+C:\Users\Admin\source\repos\Lines\Lines\obj\Debug\Lines.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lines\Lines\obj\Debug\Lines.Form1.resources
+C:\Users\Admin\source\repos\Lines\Lines\obj\Debug\Lines.Properties.Resources.resources
+C:\Users\Admin\source\repos\Lines\Lines\obj\Debug\Lines.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Lines\Lines\obj\Debug\Lines.exe
+C:\Users\Admin\source\repos\Lines\Lines\obj\Debug\Lines.pdb
